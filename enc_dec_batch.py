@@ -19,7 +19,7 @@ from chainer.functions.array import concat
 # In[ ]:
 
 from nmt_config import *
-
+#test commits lalalalala
 
 # In[ ]:
 
